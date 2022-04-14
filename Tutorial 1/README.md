@@ -1,4 +1,4 @@
-# DockerMsftProvider
+# Test Image
 
 ### Pulling Test Image (Empty IIS)
 
