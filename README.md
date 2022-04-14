@@ -4,7 +4,7 @@
 * Installing DockerMsftProvider into Windows Server 2019.
 
 ## Tutorial 1
-* Test Docker installation by running empty IIS container.
+* Testing Docker installation by running empty IIS container.
 
 
 ## Tutorial 2
