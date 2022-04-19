@@ -6,7 +6,7 @@
   
 ### Bulid Your New Image with tag :
 ```
-* docker build -t <Username>/<RepoName>:<tag>
+* docker build -t <Username>/<RepoName>:<tag> .
     * docker build -t bugscleaners/dockertutorial:<tag> .
 * docker tag <existing-image> <Username>/<RepoName>:<tag>
     * docker tag docker-tutorial bugscleaners/dockertutorial:version1
