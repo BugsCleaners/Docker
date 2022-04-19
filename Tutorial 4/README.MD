@@ -8,9 +8,9 @@
 ```
 * docker build -t <Username>/<RepoName>:<tag> .
     *  ex: docker build -t bugscleaners/dockertutorial:<tag> .
-* docker tag <existing-image> <Username>/<RepoName>:<tag>
+* docker tag <ImageName> <Username>/<RepoName>:<tag>
     *  ex: docker tag docker-tutorial bugscleaners/dockertutorial:version1
-* docker commit <existing-container> <hub-user>/<repo-name>:<tag>
+* docker commit <ImageName> <hub-user>/<repo-name>:<tag>
     *  ex:  docker commit springboot-docker-demo bugscleaners/dockertutorial:version1
 
 ```
