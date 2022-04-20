@@ -7,7 +7,7 @@
 ### Bulid Your New Image with tag :
 ```
 * docker build -t <Username>/<RepoName>:<tag> .
-    *  ex: docker build -t bugscleaners/dockertutorial:<tag> .
+    *  ex:  docker build -t bugscleaners/tutorial4:v1 .
 * docker tag <ImageName> <Username>/<RepoName>:<tag>
     *  ex: docker tag docker-tutorial bugscleaners/dockertutorial:version1
 * docker commit <ImageName> <hub-user>/<repo-name>:<tag>
