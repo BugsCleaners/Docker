@@ -1,4 +1,6 @@
 
 ### Springboot WebAPI
-* https://start.spring.io/
-* Simple HTTP Get 
+* Spring initializr
+ * https://start.spring.io/
+* Simple Springboot WebAPI
+ * HTTP Get Method
