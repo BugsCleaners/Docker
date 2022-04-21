@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62611bccc1a7ee36e16360ba"
+  },
+  "dataid": "1122",
+  "name": "ahmad",
+  "country": "irbid",
+  "phonenumber": "0725698217",
+  "_class": "com.Tutorial5.Tutorial5springboot.mongodb.Model.DataItem"
+},{
+  "_id": {
+    "$oid": "6261215f7a07de3e39ab8e2d"
+  },
+  "dataid": "3333",
+  "name": "saaaaaaari",
+  "country": "amman",
+  "phonenumber": "0725698217",
+  "_class": "com.Tutorial5.Tutorial5springboot.mongodb.Model.DataItem"
+}]
