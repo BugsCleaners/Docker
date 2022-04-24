@@ -40,5 +40,3 @@
 * 2- Springboot 
  * HTTP (Get)
 * UI
-
-
