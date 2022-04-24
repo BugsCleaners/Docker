@@ -36,7 +36,7 @@
 
 ## Tutorial 7
 * 1- Springboot & Monogodb
- * HTTP (Get/Post/Delete)
+  * HTTP (Get/Post/Delete)
 * 2- Springboot 
- * HTTP (Get)
-* UI
+  * HTTP (Get)
+* Docker Compose 
