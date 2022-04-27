@@ -44,6 +44,8 @@
 ## Tutorial 8
 * Springboot Reading from Application.properties 
 
+## Tutorial 9
+* Springboot Reading from file
 # Helper 
 ## Generate Jar File 
 * `./mvnw package`
