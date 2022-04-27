@@ -41,7 +41,8 @@
   * HTTP (Get)
 * Docker Compose 
 
-
+## Tutorial 8
+* Springboot Reading from Application.properties 
 
 # Helper 
 ## Generate Jar File 
