@@ -6,10 +6,6 @@ services:
     volumes:
     - C:\\dockerfile:/var/dockerfile
 
-volumes:
-  myfile:
-
-
 
 
 
