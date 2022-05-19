@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "626686cb0658ab6554e7fd1d"
+  },
+  "userid": 69,
+  "name": "sari",
+  "status": "",
+  "_class": "com.Tutorial6.Tutorial6.Model.UserData"
+},{
+  "_id": {
+    "$oid": "626686d20658ab6554e7fd1e"
+  },
+  "userid": 67,
+  "name": "meera",
+  "status": "",
+  "_class": "com.Tutorial6.Tutorial6.Model.UserData"
+}]
