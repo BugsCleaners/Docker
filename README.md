@@ -58,7 +58,7 @@
 * `./mvnw package`
 * `java -jar ./target/(your-project-name)-(<version> at pom.xml).jar`
 * Ex:  `java -jar target/Tutorial5-springboot-mongodb-0.0.1-SNAPSHOT.jar `
-
+* `docker-compose up --build`
 ### Create Repo at Dockerhub :
 * Create Free Account on Docker Hub
   * https://hub.docker.com/
