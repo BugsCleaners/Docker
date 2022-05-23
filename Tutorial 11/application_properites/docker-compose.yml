@@ -1,0 +1,13 @@
+version: "3"
+services:
+   application_properites:
+      image:
+        bugscleaners/internal2:v1
+      environment:
+        app: "hello from compose"
+      build:
+        context: ./
+        dockerfile: Dockerfile
+      ports:
+        - "8095:8095"
+      restart: always
